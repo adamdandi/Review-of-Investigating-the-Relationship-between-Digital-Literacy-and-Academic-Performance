@@ -1,31 +1,44 @@
-## Review of "Investigating the Relationship between Digital Literacy and Academic Performance"
+##  Peer Review of "Investigating the Relationship between Digital Literacy and Academic Performance" 
 
-**Analysis Type:** Manuscript Peer Review  
+**Analysis Type:** Academic Manuscript Peer Review
 
-**Tools Used:** JTET Reviewer Form 2020/4, Subject Matter Expertise  
+**Tools Used:**  JTET Reviewer Form 2020/4, Subject Matter Expertise
 
-**Completion Date:** November 14, 2023
+**Completion Date:** November 17, 2023
 
-**Company Industry:** Academic Publishing  
+**Company Industry:**  Academic Publishing /  Technical and Vocational Education and Training (TVET)
 
-**Company Name:** Journal of Technical Education and Training (JTET)  
+**Company Name:** Journal of Technical Education and Training (JTET) 
 
-**Overview Headline:** Evaluating the Link Between Digital Literacy and Academic Success in TVET Programs
 
-**Overview:** This project involved a comprehensive review of a manuscript submitted to JTET, examining the relationship between digital literacy and the academic performance of undergraduate students in Technical and Vocational Education and Training (TVET) programs. The review assessed the study's methodology, findings, and implications for TVET education.
+**Overview Headline:** Ensuring Quality and Rigor in TVET Research
 
-**Data Details:** The manuscript analyzed data collected through a survey of 59 undergraduate TVET students at a Malaysian university. Key variables included digital literacy skills (information literacy, communication and collaboration, online safety, information access, and task completion) and academic performance (grades in an Information Technology course).
+**Overview:** This project involved a comprehensive peer review of a manuscript submitted to the Journal of Technical Education and Training (JTET). The review aimed to evaluate the quality, validity, and significance of the research on the relationship between digital literacy and academic performance among TVET students. The feedback provided is intended to guide the authors in improving their manuscript and contribute to the advancement of knowledge in the field of TVET.
 
-**Problem Statement:** The manuscript seeks to address the need for a better understanding of how digital literacy influences the academic success of TVET students, a crucial aspect of preparing them for today's technology-driven workforce.
+**Data Details:** The data reviewed consisted of a full manuscript submitted by the authors, including:
+* Abstract
+* Introduction
+* Literature Review 
+* Methodology 
+* Results
+* Discussion and Conclusion
+* References
 
-**Solution:** The authors conducted a correlation analysis to investigate the relationship between students' self-reported digital literacy levels and their academic performance in an Information Technology course.
+**Problem Statement:**  The peer review process addresses the critical need to ensure that published research meets high standards of rigor, clarity, and relevance to the field of TVET. This particular manuscript presented findings on a crucial topic (digital literacy in TVET) and required careful evaluation to ensure its contribution to the body of knowledge.
 
-**Insight:** The review identified both strengths and weaknesses in the manuscript. While the study employed appropriate methodology and offered valuable insights, concerns were raised regarding the small sample size, lack of detailed descriptions of the digital literacy skills assessed, and the moderate correlation observed.
+**Solution:** The review was conducted using the JTET Reviewer Form 2020/4, which provides a structured framework for assessing various aspects of the manuscript, including:
+* Importance and originality of the topic
+* Clarity of research goals and objectives
+* Adequacy of research methods
+* Interpretation and presentation of results
+* Implications for TVET practice and policy
+* Writing quality and clarity
 
-**Recommendation:** The review recommended revisions to the manuscript, including:
+**Insight:** The review identified both strengths and weaknesses in the manuscript. While the study addressed a relevant topic and employed appropriate methodology, concerns were raised regarding the sample size, lack of detailed description of digital literacy skills assessed, and the need to explore other factors influencing academic performance.
 
-- **Increased sample size:** To enhance the generalizability of the findings.
-- **Detailed description of digital literacy skills:** To provide greater clarity and specificity to the study.
-- **Exploration of additional factors:** To consider other variables that may influence academic performance, such as socio-economic background and prior digital literacy training.
-- **Longitudinal study:** To examine the long-term impact of digital literacy on academic performance.
-- **Recommendations for educators and policymakers:** To provide actionable guidance on integrating digital literacy into TVET curricula.
+**Recommendation:**  The review recommended revisions to the manuscript, including:
+* Increasing the sample size to enhance generalizability.
+* Providing a more comprehensive description of the digital literacy skills measured.
+* Considering a longitudinal study design to assess long-term impacts.
+* Exploring additional factors that may contribute to academic performance.
+* Offering specific recommendations for educators and policymakers on integrating digital literacy into TVET curricula.
