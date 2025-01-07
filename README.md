@@ -1,9 +1,13 @@
 ## Review of "Investigating the Relationship between Digital Literacy and Academic Performance"
 
 **Analysis Type:** Manuscript Peer Review  
+
 **Tools Used:** JTET Reviewer Form 2020/4, Subject Matter Expertise  
+
 **Completion Date:** November 14, 2023
+
 **Company Industry:** Academic Publishing  
+
 **Company Name:** Journal of Technical Education and Training (JTET)  
 
 **Overview Headline:** Evaluating the Link Between Digital Literacy and Academic Success in TVET Programs
